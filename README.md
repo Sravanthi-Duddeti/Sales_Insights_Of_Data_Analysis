@@ -40,8 +40,10 @@ All he wants is a simple data visualization tool which he can access on daily ba
      - Dahboard uncovering sales order insights with latest data available
      - Sales team able to take better decisions and prove 10% cost saving of total spend.
      - Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
+     - 
    
--
+-![key_Insights](https://github.com/Sravanthi-Duddeti/Sales_Insights_Of_Data_Analysis/assets/128029018/cbd1c885-027b-49c5-bfbd-e7c6c7d5cd47)
+
 
 ## Data Analysis using MySQL :
 
