@@ -42,7 +42,8 @@ All he wants is a simple data visualization tool which he can access on daily ba
      - Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
      - 
    
--![key_Insights](https://github.com/Sravanthi-Duddeti/Sales_Insights_Of_Data_Analysis/assets/128029018/cbd1c885-027b-49c5-bfbd-e7c6c7d5cd47)
+![flow_chart](https://github.com/Sravanthi-Duddeti/Sales_Insights_Of_Data_Analysis/assets/128029018/172cd6b0-c521-4352-a6f4-c0bf528a74bf)
+
 
 
 ## Data Analysis using MySQL :
@@ -52,9 +53,6 @@ Completed the Data discovery and then used mySQL for data analysis.
 SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer
 
 - Importing Data to MySQL workbench
-
-
-
 
 The import of data is done from an already existing MySQL file. This file has to be loaded into MySQL workbench for further data analysis. 
 
@@ -150,7 +148,8 @@ In this process, we are work on data cleaning and ETL.
          
  In that model view looking up for model which form the star schema.
          
- 
+ ![Data_Model](https://github.com/Sravanthi-Duddeti/Sales_Insights_Of_Data_Analysis/assets/128029018/665605a3-0fc9-4a57-ac61-a079a9cbbe88)
+
 
  Setp 3: Transform data with the help of Power Query
  
@@ -213,6 +212,11 @@ Profit Target:
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
 Shows visualizations from Sales insights :
+![key_Insights](https://github.com/Sravanthi-Duddeti/Sales_Insights_Of_Data_Analysis/assets/128029018/72a4d196-fb2e-40f3-ba5c-3a942ffaa9e8)
+![Profit_Analysis](https://github.com/Sravanthi-Duddeti/Sales_Insights_Of_Data_Analysis/assets/128029018/346920b3-3a10-4121-8144-a8a76e7db146)
+![Performanace_Insights](https://github.com/Sravanthi-Duddeti/Sales_Insights_Of_Data_Analysis/assets/128029018/fb1236da-835c-4cec-9207-5f05c60d0298)
+
+
 
 
 
