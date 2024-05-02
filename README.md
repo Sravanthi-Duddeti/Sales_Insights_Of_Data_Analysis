@@ -1,17 +1,6 @@
 #  Project : Sales Insights of Data Analysis-AtliQ Hardware
 
 
-## Table of Contents:
-
-- [Problem Statement](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#problem-statement-)
-- [Data Discovery](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-discovery-)
-- [Data Analysis using MySQL ](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-analysis-using-mysql-)
-- [Data Cleaning and ETL (Extract, Transform, Load)](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-cleaning-and-etl-extract-transform-load)
-- [Data Modeling](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-modeling)
-- [Data Analysis (DAX)](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-analysis--dax)
-- [Build Dashboard Or a Report](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#build-dashboard-or-a-report)
-- [Tools, Software and Libraries](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#tools-software-and-libraries-)
-- [References](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#references-)
 
 
 ## Problem Statement :
@@ -52,11 +41,7 @@ All he wants is a simple data visualization tool which he can access on daily ba
      - Sales team able to take better decisions and prove 10% cost saving of total spend.
      - Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
    
-- #### Flowchart of project execution -
-
-  ![1_khhcniAryBdmmfJt0Zk0Lg](https://user-images.githubusercontent.com/118357991/231545034-7f6cc437-5683-44f1-92df-a671540ccae9.jpg)
-
-   
+-
 
 ## Data Analysis using MySQL :
 
@@ -66,9 +51,7 @@ SQL database dump is in db_dump.sql file above. Download db_dump.sql file to you
 
 - Importing Data to MySQL workbench
 
-![Screenshot (2)](https://user-images.githubusercontent.com/118357991/233262007-c36f58cd-df19-42b5-b9cb-4d72c0ef64a4.png)
 
-![Screenshot (3)](https://user-images.githubusercontent.com/118357991/233262064-b1fb8f0f-8c16-402d-adac-07784b81a2fe.png)
 
 
 The import of data is done from an already existing MySQL file. This file has to be loaded into MySQL workbench for further data analysis. 
@@ -165,7 +148,7 @@ In this process, we are work on data cleaning and ETL.
          
  In that model view looking up for model which form the star schema.
          
- ![Screenshot (4)](https://user-images.githubusercontent.com/118357991/233265427-94285bbf-79e6-446f-bd72-dc7c220e0680.png)
+ 
 
  Setp 3: Transform data with the help of Power Query
  
@@ -201,9 +184,7 @@ we can see that it is duplicate and for analysis its better to delete anyone of 
 
 And then dataset was cleaned and transformed, it was ready to the data modeled.
 
-The sales insights data tables as show below:
 
-![Screenshot (14)](https://user-images.githubusercontent.com/118357991/234016242-369bd02e-1ddf-4047-9be4-324c83bd8761.png)
 
 ## Data Analysis  (DAX):
 
@@ -231,18 +212,7 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 
 Shows visualizations from Sales insights :
 
-| Key Insights |
-| ----------- |
-|![Sales Insights data analysis-AtliQ_page-0001](https://user-images.githubusercontent.com/118357991/234025264-f5f1d7af-2ead-4d9a-b8ae-7524d200b7dd.jpg)|
 
-
-| Profit Analysis |
-| ----------- |
-|![Sales Insights data analysis-AtliQ_page-0002](https://user-images.githubusercontent.com/118357991/234025629-3c2e3dcf-77fb-4c20-acdb-3f92604d1292.jpg)|
-
-| Profit Analysis |
-| ----------- |
-|![Sales Insights data analysis-AtliQ_page-0003](https://user-images.githubusercontent.com/118357991/234025913-3a09f076-e1c7-40a1-9983-d2c8767f252c.jpg)|
 
 ## Tools, Software and Libraries :
 
